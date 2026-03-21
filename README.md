@@ -1,4 +1,2 @@
-# NewsBOT
-This Bot will send you all best news for your favorit theme
-
+Бот с новостями по теме
 
