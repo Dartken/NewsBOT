@@ -1,0 +1,18 @@
+# Telegram
+
+TOKEN = "7770302192:AAGnvPjHEW_9C72SCPCevFc9KRq-Ru2dNDw"
+
+# News API
+
+NEWS_API_KEY = "fa0i6uhETk5LCwMq8id9qf6DReuvdGbWAJQi7gvk"
+
+# OpenAI
+
+OPENAI_API_KEY = "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"
+
+# Settings
+
+DEFAULT_TOPIC = "gaming"
+
+NEWS_COUNT = 3
+LANGUAGE = "en"
